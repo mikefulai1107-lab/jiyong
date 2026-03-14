@@ -1,0 +1,1 @@
+{\n  "env": {\n    "NODE_ENV": "development",\n    "SECRET": "your_secret_here"\n  },\n  "database": {\n    "url": "your_database_url_here"\n  },\n  "storage": {\n    "bucket": "your_bucket_name_here"\n  }\n}
