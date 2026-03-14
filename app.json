@@ -1,0 +1,10 @@
+{\n  "pages": {\n    "index": {\n      "path": "/index.html",
+      "style": "app.css",
+      "title": "Index Page"
+    },\n    "square": {\n      "path": "/square.html",
+      "style": "app.css",
+      "title": "Square Page"
+    },\n    "mine": {\n      "path": "/mine.html",
+      "style": "app.css",
+      "title": "Mine Page"
+    }\n  },\n  "cloud": {\n    "development": {\n      "enabled": true,\n      "config": {\n        "region": "us-west-2",\n        "apiKey": "your_api_key_here"\n      }\n    }\n  }\n}
